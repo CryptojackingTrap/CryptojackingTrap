@@ -1,0 +1,24 @@
+[submodule "monitor"]
+	path = monitor
+	url = https://github.com/CryptojackingTrap/monitor
+[submodule "listener-bitcoin"]
+	path = listener-bitcoin
+	url = https://github.com/CryptojackingTrap/listener-bitcoin
+[submodule "listener-ethereum"]
+	path = listener-ethereum
+	url = https://github.com/CryptojackingTrap/listener-ethereum
+[submodule "listener-monero"]
+	path = listener-monero
+	url = https://github.com/CryptojackingTrap/listener-monero
+[submodule "detector"]
+	path = detector
+	url = https://github.com/CryptojackingTrap/detector
+[submodule "util"]
+	path = util
+	url = https://github.com/CryptojackingTrap/util
+[submodule "dataset"]
+	path = dataset
+	url = https://github.com/CryptojackingTrap/dataset
+[submodule "paper"]
+	path = dataset
+	url = https://github.com/CryptojackingTrap/paper
