@@ -1,5 +1,7 @@
 # cryptojackingtrap
-CryptojackingTrap is a solution including numerous projects for finding cryptojacking malware mining any cryptocurrency on victims' machines
+CryptojackingTrap is a solution including numerous projects for finding cryptojacking malware mining any cryptocurrency on victims' machines.
+
+This repository is currently maintained by Atefeh Zareh ([@Atefeh-Zareh](https://github.com/Atefeh-Zareh)). If you encounter any bugs or usage issues, please feel free to create an issue on [our issue tracker](https://github.com/CryptojackingTrap/CryptojackingTrap/issues).
 
 | Submodule | Purpose |
 | --- | --- |
