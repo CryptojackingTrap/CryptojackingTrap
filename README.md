@@ -2,6 +2,34 @@
 
 CryptojackingTrap is a comprehensive solution comprising multiple projects designed to identify cryptojacking malware mining any cryptocurrency on victims' machines.
 
+## Citation
+If you find this application helpful and use it in your research or projects, please cite the following papers:
+
+````markdown
+@ARTICLE{10400529,
+  author={Chahoki, Atefeh Zareh and Shahriari, Hamid Reza and Roveri, Marco},
+  journal={IEEE Transactions on Information Forensics and Security}, 
+  title={CryptojackingTrap: An Evasion Resilient Nature-Inspired Algorithm to Detect Cryptojacking Malware}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TIFS.2024.3353072}}
+
+@INPROCEEDINGS{8546867,
+  author={Zareh, Atefeh and Shahriari, Hamid Reza},
+  booktitle={2018 15th International ISC (Iranian Society of Cryptology) Conference on Information Security and Cryptology (ISCISC)}, 
+  title={BotcoinTrap: Detection of Bitcoin Miner Botnet Using Host Based Approach}, 
+  year={2018},
+  volume={},
+  number={},
+  pages={1-6},
+  doi={10.1109/ISCISC.2018.8546867}} 
+````
+  and 
+
+
+
 | Submodule | Purpose |
 | --- | --- |
 | [listener-bitcoin](https://github.com/CryptojackingTrap/listener-bitcoin) | Listening to the Bitcoin network |
