@@ -1,6 +1,6 @@
 # CryptojackingTrap
 
-CryptojackingTrap is a comprehensive solution comprising multiple projects designed to identify cryptojacking malware mining any cryptocurrency on victims' machines.
+CryptojackingTrap is a comprehensive solution comprising multiple projects designed to identify cryptojacking malware mining any cryptocurrency on victims' machines. To use each of the following submodules, please visit the its provided link, clone the repository, and follow the specific instructions outlined in its README file.
 
 ## Citation
 If you find this application helpful and use it in your research or projects, please cite the following papers:
